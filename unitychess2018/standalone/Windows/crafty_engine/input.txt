@@ -1,0 +1,7 @@
+alarm=off
+speech=off
+ponder=off
+computer
+st  5
+setboard r2qk2r/p1p2ppp/1n1bpn2/1p1p4/3P4/P1P2BPP/1P1BPP2/RN1Q1RK1 b qk - 0 1 
+go
